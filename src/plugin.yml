@@ -1,0 +1,8 @@
+name: bFormatted
+version: 1.0
+main: de.bananaco.format.FormatPlugin
+author: codename_B
+permissions:
+  color.chat:
+    description: Allows the user to use color codes in chat
+    default: false
